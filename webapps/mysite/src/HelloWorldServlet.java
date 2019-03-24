@@ -3,7 +3,7 @@ import javax.servlet.http.*;
 import java.io.*;
 
 public class HelloWorldServlet extends HttpServlet {
-  public void service(HttpServletRequest req, HttpServletResponse res) throws IOException {
+  public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {  
     // Must set the content type first
     res.setContentType("text/html");
     // Now obtain a PrintWriter to insert HTML into
@@ -13,4 +13,8 @@ public class HelloWorldServlet extends HttpServlet {
     out.println("<body><h1>Hello World from HelloWorldServlet Class!</h1></body>");
     out.println("</html>");
   }
+
+  public void destroy() {
+    // do nothing.
+ }
 }
