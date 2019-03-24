@@ -12,7 +12,7 @@ This template is a simple Java Servlet starter using Docker.
     mkdir ./webapps/mysite/WEB-INF/classes
 
     # Compile Java files
-    javac -cp ./webapps/mysite/src/jar/*.jar -d ./webapps/mysite/WEB-INF/classes ./webapps/mysite/src/HelloWorldServlet.java
+    javac -cp ./webapps/mysite/src/jar/*.jar -d ./webapps/mysite/WEB-INF/classes ./webapps/mysite/src/*.java
 
     # Run Docker
     docker-compose up -d
