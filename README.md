@@ -1,6 +1,6 @@
 # Hello World Servlet Docker
 
-This template is a simple Java Servlet starter using Docker.
+A simple Java Servlet starter template using Docker
 
 ## Running
 
