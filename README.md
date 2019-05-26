@@ -22,3 +22,13 @@ A simple Java Servlet starter template using Docker
     http://localhost:8888/mysite/
 
     http://localhost:8888/mysite/hello-world
+    
+## Authors
+
+* **Ezzat Chamudi** - [ezhmd](https://github.com/ezhmd)
+
+## Licenses
+
+The code released under [MIT License](https://spdx.org/licenses/MIT.html). 
+
+Libraries, dependencies, and tools used in this project tied with their own licenses respectively.
