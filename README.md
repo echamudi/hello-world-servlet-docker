@@ -27,8 +27,12 @@ A simple Java Servlet starter template using Docker
 
 * **Ezzat Chamudi** - [ezhmd](https://github.com/ezhmd)
 
-## Licenses
+See also the list of [contributors](https://github.com/ezhmd/hello-world-servlet-docker/graphs/contributors) who participated in this project.
 
-The code released under [MIT License](https://spdx.org/licenses/MIT.html). 
+## License
 
-Libraries, dependencies, and tools used in this project tied with their own licenses respectively.
+Code and documentation copyright 2019 the [Hello World Servlet Docker Project Authors](https://github.com/ezhmd/hello-world-servlet-docker/graphs/contributors). 
+
+Hello World Servlet Docker code is licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Images, logos, docs, and articles in this Hello World Servlet Docker project are released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Libraries, dependencies, and tools used in this project aret tied with their own licenses respectively.
