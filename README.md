@@ -35,4 +35,4 @@ Code and documentation copyright 2019 the [Hello World Servlet Docker Project Au
 
 Hello World Servlet Docker code is licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Images, logos, docs, and articles in this Hello World Servlet Docker project are released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Libraries, dependencies, and tools used in this project aret tied with their own licenses respectively.
+Libraries, dependencies, and tools used in this project are tied with their own licenses respectively.
